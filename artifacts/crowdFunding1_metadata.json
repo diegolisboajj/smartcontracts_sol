@@ -1,0 +1,50 @@
+{
+	"compiler": {
+		"version": "0.8.6+commit.11564f7e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"stateMutability": "payable",
+				"type": "fallback"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"crowdfunding.sol": "crowdFunding1"
+		},
+		"evmVersion": "berlin",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"crowdfunding.sol": {
+			"keccak256": "0x695ecfb6ca5045ab2947f71b219b29f2fd687ca38ef0d9ad602cd4d6c284a3a8",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8dccc8dc82e7c44e7fb68d6b06009fca060d3e9e69fa78b4216b6f2a24986f39",
+				"dweb:/ipfs/QmQrLozHMg5P8WtYwNGMSvVwe3ZVWWAT6z9nvrzMRrpQdd"
+			]
+		}
+	},
+	"version": 1
+}

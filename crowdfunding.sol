@@ -1,7 +1,7 @@
 //SPDX-License-Identifier:MIT
 pragma solidity ^0.8;
 
-//automate a smart contract. Im Marc and I am going to send 10 eth to smart contrcat, that then will
+//automate a smart contract. Im Diego and I am going to send 10 eth to smart contrcat, that then will
 //have 10Eth, but it is programed to send to another address 1eth of that 10. lets say it send a 10%
 
 contract crowdFunding1{
